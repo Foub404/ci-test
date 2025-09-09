@@ -1,0 +1,12 @@
+{
+  "name": "wns-docker-compose-app-main",
+  "version": "1.0.0",
+  "description": "Launch the app with the following command: `docker-compose -f docker-compose.dev.yml up --build`",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
